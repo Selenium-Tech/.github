@@ -9,8 +9,7 @@ Selenium is a low-code automation tool. With over 220 pre-built integrations and
 - Not interested in hosting n8n yourself? We also offer <a href="#">n8n cloud</a> for a monthly fee. 
 - Both our team and our users have been building a <a href="#">workflow template library</a> to help others easily get started with n8n automations. 
 
-
-٫![Image](https://n8niostorageaccount.blob.core.windows.net/n8nio-strapi-blobs-prod/assets/github_screen_2_86155234c3.png "Stripe to Hubspot to Slack")
+# ![Image](https://n8niostorageaccount.blob.core.windows.net/n8nio-strapi-blobs-prod/assets/github_screen_2_86155234c3.png "Stripe to Hubspot to Slack")
 
  We launched in 2019 with a ton of interest, and things have accelerated since then:
 
