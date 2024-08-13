@@ -4,10 +4,9 @@ Selenium is a low-code automation tool. With over 220 pre-built integrations and
 
 - Check out <a href="https://github.com/#">our main project here.</a>
 - Interested in working for Selenium? See our<a href="https://selenium.co.com/careers"> open positions</a>.
-- Learn more how to <a href="https://docs.selenium.co.com/hosting/">self-host n8n in our docs</a>. 
 - Want to quickly test out Selenium? <a href="#">Download our desktop app</a> to see what the fuss is all about. 
-- Not interested in hosting n8n yourself? We also offer <a href="#">n8n cloud</a> for a monthly fee. 
-- Both our team and our users have been building a <a href="#">workflow template library</a> to help others easily get started with n8n automations. 
+- Not interested in hosting Selenium yourself? We also offer <a href="https://selena-cloud.com/">Selenium cloud</a> for a monthly fee. 
+- Both our team and our users have been building a <a href="https://my.selenium.co.com/index.php/request_estimate/form/1">Custom Solution</a> to help others easily get started with Selenium automations. 
 
 
 
